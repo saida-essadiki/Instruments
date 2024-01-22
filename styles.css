@@ -1,0 +1,57 @@
+body{
+    background-color: #BEADFA;
+}
+h1{
+    color: #FDE767;
+    text-align: center;
+    margin-top: 5%;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+    text-shadow: 1px 1px 2px purple;
+}
+button{
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    color: purple;
+    font-size: 2rem;
+    font-weight: bold;
+    border-radius: 15px;
+    text-shadow: 1px 1px 2px yellow;
+    font-family: 'Dancing Script', cursive;
+
+}
+footer{
+    font-size: 2rem;
+    text-align: center;
+    color: #FDE767;
+    font-family: 'Dancing Script', cursive;
+    text-shadow: 1px 1px 2px purple;
+}
+.set{
+    margin-top: 5%;
+    display: inline-block;
+    margin-bottom: 13%;
+    margin-left: 13%;
+    margin-right: 13%;
+}
+.p{
+    background-image: url(images/piano.jpeg);
+    background-size: cover;
+}
+.g{
+    background-image: url(images/guitar.webp);
+    background-size: cover;
+}
+.d{
+    background-image: url(images/drum.jpeg);
+    background-size: cover;
+}
+.f{
+        background-image: url(images/flute.jpeg);
+        background-size: cover;
+}
+.c{
+    background-image: url(images/cymbale.jpeg);
+    background-size: cover;
+}
